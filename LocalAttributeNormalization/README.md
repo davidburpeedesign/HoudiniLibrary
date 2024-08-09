@@ -4,3 +4,4 @@ Based upon the implementation of Local Normalization in image processing by Dani
 
 https://bigwww.epfl.ch/sage/soft/localnormalization/
 
+Attribute needs to be a float, there is a .hip with an example implentation. Useful for maintaining detail of attributes while normalizing localized ranges from 0-1.
